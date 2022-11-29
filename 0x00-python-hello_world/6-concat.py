@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 str1 = "Holberton"
 str2 = "School"
-#Print both strings.
 print(f"Welcome to {str1} {str2}!")
+#End of code.
