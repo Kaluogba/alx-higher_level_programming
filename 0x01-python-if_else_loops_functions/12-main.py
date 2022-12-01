@@ -4,6 +4,6 @@ fizzbuzz = __import__('12-fizzbuzz').fizzbuzz
 
 
 
-fizzbuzz(1, 101)
+fizzbuzz(1, 100)
 
 print("")
