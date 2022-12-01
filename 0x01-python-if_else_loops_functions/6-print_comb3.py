@@ -4,4 +4,4 @@ for i in range(0, 9):
         if i >= j:
             continue
         print("{:d}""{:d}" ", ".format(i, j), end="")
-print("\n")
+print("")
