@@ -1,9 +1,10 @@
 #!/usr/bin/python3
-def add_list(*numbers):
-    total = 1
-    for number in numbers:
-        total += number
-    return total
 
-print(add_list(79, 10, -40, -300, 89))
+if __name__ == "__main__":
 
+    import sys
+    result = 0
+    for arg in sys.argv:
+        if arg != sys.argv[0]:
+            result += int(arg)
+    print(result)
