@@ -1,3 +1,2 @@
 #!/usr/bin/python3
-print("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
-# Program end
+import fast_alphabet_103
